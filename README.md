@@ -1,4 +1,4 @@
-# codepath-prework
+# Codepath.iOS
 Intro to Mobile App Development - iOS Pre-work Project
 
 ![](https://i.imgur.com/wz1nBp8.gif)
