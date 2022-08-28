@@ -1,7 +1,7 @@
 # codepath-prework
 Intro to Mobile App Development - iOS Pre-work Project
 
-![](https://i.imgur.com/1SISv5Z.gif)
+![](https://i.imgur.com/wz1nBp8.gif)
 
 
 ### Required User Stories
